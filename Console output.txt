@@ -1,0 +1,172 @@
+Employee Management System using JDBC
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+1
+Id	Name	Salary
+No Data found..!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+2
+Enter ID : 
+101
+Enter Name :
+John
+Enter Salary :
+20000
+Data saved successfully...!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+2
+Enter ID : 
+102
+Enter Name :
+jeny
+Enter Salary :
+40000
+Data saved successfully...!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+2
+Enter ID : 
+103
+Enter Name :
+david
+Enter Salary :
+24000
+Data saved successfully...!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+2
+Enter ID : 
+104
+Enter Name :
+alice
+Enter Salary :
+45000
+Data saved successfully...!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+1
+Id	Name	Salary
+101	John	20000
+102	jeny	40000
+103	david	24000
+104	alice	45000
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+3
+Enter ID to update : 
+105
+ID Not Present..!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+3
+Enter ID to update : 
+104
+Enter Name :
+Alice_New 
+Enter Salary :
+34000
+Data updated successfully...!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+1
+Id	Name	Salary
+101	John	20000
+102	jeny	40000
+103	david	24000
+104	Alice_New	34000
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+4
+Enter ID to delete : 
+109
+ID Not Present..!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+4
+Enter ID to delete : 
+104
+Data deleted successfully...!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+1
+Id	Name	Salary
+101	John	20000
+102	jeny	40000
+103	david	24000
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
+
+5
+Please select valid input..!!
+
+Select choice :
+1: Show Employee details
+2: Insert Employee details
+3: Update Employee details
+4: Delete Employee details
